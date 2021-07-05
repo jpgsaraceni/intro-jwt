@@ -1,0 +1,31 @@
+{
+  "name": "intro-jwt",
+  "version": "1.0.0",
+  "description": "Testing jwt on Node.js and Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpgsaraceni/intro-jwt.git"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": "jpgsaraceni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpgsaraceni/intro-jwt/issues"
+  },
+  "homepage": "https://github.com/jpgsaraceni/intro-jwt#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
